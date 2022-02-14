@@ -1,0 +1,16 @@
+h1 {
+    color: #a5673a;
+}
+
+.carrousel-item {
+  background-color: black;
+}
+
+.carrousel-item  {
+  height:auto;
+  opacity: 0.5;
+}
+
+.carousel-caption text-left {
+  background-color: black;
+}
